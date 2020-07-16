@@ -1,0 +1,11 @@
+# virtualenv
+reccommendations-env/
+
+# Finder stuff
+.DS_Store
+
+# checkpoints
+.ipynb_checkpoints
+
+# cached files
+__pycache__
